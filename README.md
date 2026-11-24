@@ -10,4 +10,4 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 cat out/entry.txt
 ```
 
-"P" for Productive - a day of building bounties and helping users on make.fun.
+"P" for Productive.
